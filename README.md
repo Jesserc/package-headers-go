@@ -12,7 +12,6 @@ Install the CLI globally like this:
 ```sh
 git clone github.com/Jesserc/package-headers-go
 cd package-headers-go/cmd/package-headers-go
-go build -o package-headers-go
 go install .
 ```
 
