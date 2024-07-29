@@ -15,6 +15,8 @@ cd package-headers-go/cmd/package-headers-go
 go install .
 ```
 
+Run: `source ~/.zshrc` or `source ~/.bashrc` to reload zsh/bash config.
+
 ## Usage
 
 Generate a Go package header and copy it to your clipboard:
